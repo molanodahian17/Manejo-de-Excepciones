@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\obj\Debug\Manejo de Exepciones.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\obj\Debug\Manejo de Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\bin\Debug\Manejo de Exepciones.exe.config
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\bin\Debug\Manejo de Exepciones.exe
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\bin\Debug\Manejo de Exepciones.pdb
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\obj\Debug\Manejo de Exepciones.exe
+C:\Users\USUARIO\Documents\OPI-CAPACITATION\Bank\Manejo de Exepciones\obj\Debug\Manejo de Exepciones.pdb
